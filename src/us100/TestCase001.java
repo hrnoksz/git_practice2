@@ -7,6 +7,8 @@ public class TestCase001 {
         System.out.println("Today is beautiful");
 
         System.out.println("I am hanging out with my friends");
+
+        System.out.println("We are going to Cinema");
     }
 
 }

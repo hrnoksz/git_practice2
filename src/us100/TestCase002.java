@@ -7,5 +7,7 @@ public class TestCase002 {
         System.out.println("I have to learn git and git-hub");
 
         System.out.println("But there are too difficult to learn ");
+
+        System.out.println("Meanwhile Akbar is speaking so fast");
     }
 }
